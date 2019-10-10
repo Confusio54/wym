@@ -38,14 +38,12 @@ Constructed a general Ginzburg-Landau theory that links the nematic order to spa
 Explained the observed phonon softening across the nematic transition in iron-based superconductors. (to be submitted)
 
 ## Talks & Posters
-### Talks
+
 "Theoretical Understanding of Novel Nematicity in Iron-based SCs", presented at [2019 Beijing Summer School on Quantum Magnetism](http://bssqm.csp.escience.cn/dct/page/1)
 
-### Posters
  ”Theoretical study on the Phonon Softening in Iron-based Superconductors”, presented at the conference [M2S-2018](http://m2s2018.medmeeting.org/3046?lang=en)
  
  ## Teaching Experience
- ### Teaching Assistant at Renmin University of China
  Group Theory (2018 fall)  
  Mechanis (2017 fall)
  
