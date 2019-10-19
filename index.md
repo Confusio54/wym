@@ -37,16 +37,16 @@ Constructed a general Ginzburg-Landau theory that links the nematic order to spa
 
 Explained the observed phonon softening across the nematic transition in iron-based superconductors. (to be submitted)
 
+## Awards
+  National Scholarship for Graduate Students 2019  
+  First Prize for Outstanding Student Stipend at Hebei university  2015 & 2016
+  
 ## Talks & Posters
 
-"Theoretical Understanding of Novel Nematicity in Iron-based SCs", presented at [2019 Beijing Summer School on Quantum Magnetism](http://bssqm.csp.escience.cn/dct/page/1)
+"Theoretical Understanding of Novel Nematicity in Iron-based SCs", talks presented at [2019 Beijing Summer School on Quantum Magnetism](http://bssqm.csp.escience.cn/dct/page/1)
 
- ”Theoretical study on the Phonon Softening in Iron-based Superconductors”, presented at the conference [M2S-2018](http://m2s2018.medmeeting.org/3046?lang=en)
+ ”Theoretical study on the Phonon Softening in Iron-based Superconductors”, posters presented at the conference [M2S-2018](http://m2s2018.medmeeting.org/3046?lang=en)
  
  ## Teaching Experience
  Group Theory (2018 fall)  
  Mechanis (2017 fall)
- 
- ## Awards
-  National Scholarship for Graduate Students 2019  
-  First Prize for Outstanding Student Stipend at Hebei university  2015 & 2016
