@@ -15,6 +15,10 @@
 
 ## Biography
 I am a graduate student in Prof. Rong Yu's theoretical condensed matter group, department of physics, Renmin University of China. I mainly study quantum phase transitions in iron-based superconductors by employing analytical techniques such as Feynman diagrams, renormalization group and large-N mean field theory. 
+
+## Research Interests
+Theoretical quantum many-body physics. Quantum phase transition. Quantum magnetism. Quantum criticality. High-$T_{c}$ Superconductivity. Non-equilibrium quantum dynamics. Applications of perturbative and non-perturbative techniques to strongly correlated systems.
+
 ## Educational Background
 2017-present   
 M.S in Theoretical Physics   
@@ -31,7 +35,7 @@ Integrated Ranking: 2/37
 **Y. Wang**, W. Hu, R. Yu, and Q. Si, Broken mirror symmetry, incommensurate spin correlations, and *B<sub>2g</sub>* nematic order in iron pnictides, [Phys. Rev. B 100, 100502(R)(2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.100502)
 
 ## Research Experience
-Analytically studied an effective model that describes the magnetic phases and the symmetry-related emergent phases induced by magnetic fluctuations in iron-based superconductors using renormalization group and large-N mean field theory. (to be submitted)
+Analytically studied an effective model that describes the magnetic phases and the symmetry-related emergent phases induced by magnetic fluctuations in iron-based superconductors using renormalization group and large-N mean field theory. (two papers, one of which will be posted on arXiv in one month)
 
 Constructed a general Ginzburg-Landau theory that links the nematic order to spatial pattern of magnetic fluctuations. And explained the observed quasi-degeneracy between *B<sub>1g</sub>* and *B<sub>2g</sub>* nematic fluctuations in iron-based superconductors. (published on PRB(R))
 
